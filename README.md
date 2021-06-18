@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png">
 </p>
+
 ## Rocky's Cloud Journey
 
 Hi, My name is Rocky! Recently passed my AWS CCP exam and looking to further my cloud skills. Trying to get
