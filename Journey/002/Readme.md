@@ -11,7 +11,7 @@ In this project basic knowledge of how to ssh is required as well as an ssh clie
 
 ## Use Case
 
-![Screenshot](https://ibb.co/bRzTpss)
+![Screenshot](https://i.ibb.co/2YgxXvv/EC2-Architecture.png)
 
 EC2 can be used to spin up virtual servers that connect to the internet. These servers can be simple such as hosting a static webpage or complex such as hosting dedicated game servers.
 
