@@ -87,6 +87,4 @@ Now that I know how to use EC2 I plan on looking into some of the other AWS serv
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
 [LinkedIn](https://www.linkedin.com/posts/rockyle98_rocky-hoang-le100daysofcloud-activity-6811766028821942272-1giJ)
