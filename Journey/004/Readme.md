@@ -18,6 +18,4 @@ In the end I got to see machine learning happen in real time as got an understan
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
 [LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-aws-machinelearning-activity-6812403315217887233-2IW7)
