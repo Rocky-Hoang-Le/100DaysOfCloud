@@ -1,4 +1,3 @@
-**Add a cover photo like:**
 ![cover image](https://i.ibb.co/Mp7T1fY/cover.png)
 
 # Learning machine learning with AWS SageMaker
