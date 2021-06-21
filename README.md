@@ -20,7 +20,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 2 > [Hosting a webpage on EC2](Journey/002/Readme.md)
 - [X] ☁️ 3 > [Creating an AWS backend for Android](Journey/003/Readme.md)
 - [X] ☁️ 4 > [Training a machine learning model with AWS SageMaker](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [X] ☁️ 5 > [Reading and learning about Terraform](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)

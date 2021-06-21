@@ -1,52 +1,16 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Learning about Terraform
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Today I read up documentation on Terrafrom and learned what it was made for and how it is supposed to be used. Terraform is an IaC tool similar to AWS Cloud that allows the user to create, update, and version an AWS infrastructure. Terraform manages these infrasturcutres through configuration files rather than a GUI, and this allows the user to build, change, and manage infrastructure in a safe, consistent, and repeatable way.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+The main steps to follow to deploy an infrastucutre with Terraform are:
+- Scope - Identify the infrastucure needs of the project
+- Author - Write the configuratio for the infrastructure
+- Intialize - Install plugins Terraform needs to manage the infrastucture
+- Plan - Preview the changes Terraform will make to match the given configuration
+- Apply - Make the planned changes
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-aws-terraform-activity-6812855717469450240-QCfA)
