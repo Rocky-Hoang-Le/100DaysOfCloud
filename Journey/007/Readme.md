@@ -1,52 +1,20 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![cover image](https://i.ibb.co/bPZJhjB/cover.png)
 
-# New post title here
+# Creating a server with Terraform and Docker
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today I am using the knowledge I learned about Docker and Terraform to create a server to reinforced what I learned on those two topics.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Terraform allows for deployment of cloud infrastructure to different cloud services, and Docker allows the application to be containerized so it can run without having to worry about the underlying technology or infrastructure.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+I learned commands for Terraform and Docker and how to start and destory a NGINX server. I also learned how to create a 
+configuration file for Terraform to use.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-docker-terraform-activity-6813451755976736768-tCC0)
