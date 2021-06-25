@@ -24,7 +24,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 6 > [Reading and learning about Docker and containers](Journey/006/Readme.md)
 - [X] ☁️ 7 > [Creating a server with Docker and Terraform](Journey/007/Readme.md)
 - [X] ☁️ 8 > [Learning about VPCs in depth](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [X] ☁️ 9 > [Researching Cloud Computing Benefits](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
