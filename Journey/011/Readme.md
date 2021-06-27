@@ -1,52 +1,22 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Creating VPC, Route tables, Internet Gateways and Subnets and using them with EC2
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today I chose this topic so I can reinforced what I learned about VPCs as well have more hands on experience with using different AWS services together.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Having a VPC allows a business to have their own virtual network in the AWS cloud without the need for any hardware or VPNS. The businesses have control over their own network space and control how resources such as EC2 are exposed to the internet.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+During this project I read documentation on the why and how VPCs, Internet Gateways, and subnets work and why they are useful. I learned that having vpc gives control over network for resources increasing security. I also learned how I can connect to the internet while keeping access to an EC2 resource private disallowing bad actors from accessing my EC2. 
 
-## Try yourself
+Internet gateways are used to connect a VPC to the internet. Its main purposes are to provide a target for the VPC route table for internet traffic and performs network address translation for instances with IPv4 addresses.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Subnets are used to subdivded a large network into smaller and more effiecint subnetworks. This helps minimize traffic and easier network management control which allows for better security.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-awscloud-aws-activity-6814918719173648384-D_bA)
 
-[link](link)
