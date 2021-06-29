@@ -1,52 +1,23 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Creating Bastion, Security groups, NACL, NAT Gateways, and VPC end points
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today I chose this topic because I learned about Bastion instances and wanted to implement it. I will be using the VPCs and other required stuff from yesterday for todays project. This project also introduces me to better security practices.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+A Bastion is essentially a public facing EC2 instance that is used to communicate with a EC2 instance within a private subnet, and this is used for increased security. Security groups, NACL, NAT gateways, and VPC endpoints all serve to give the user more control over their network increasing security.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I learned more about Internet gateways and NAT gateways as well as what a Bastion is. Internet gateways allows EC2 instances that have public ip address within a VPC to receive inbound traffic from the internet while NAT gateways are for EC2 instances within a private subnet outbound access to the internet or other AWS resources.
 
-## Try yourself
+NACL are firewalls that act at the subnet level and can deny and allow access for single ip address. Security groups are firewalls that act at the instance level and deny everything and can only have allow rules.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+VPC endpoints allow for communication between instances and services within a vpc without having to go through the internet which can cause some vulnerabilites.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-awscloud-aws-activity-6815456813769650176--qZF)

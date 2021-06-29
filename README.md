@@ -29,8 +29,8 @@ By the end of this challenge I am hoping to have some more certifications such a
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [X] ☁️ 11 > [Using VPC with EC2](Journey/011/Readme.md)
+- [X] ☁️ 12 > [Creating Bastion, Security groups, NACL, NAT Gateways, and VPC endpoints](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
