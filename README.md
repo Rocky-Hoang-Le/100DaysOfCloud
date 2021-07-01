@@ -33,7 +33,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 12 > [Creating Bastion, Security groups, NACL, NAT Gateways, and VPC endpoints](Journey/012/Readme.md)
 - [X] ☁️ 13 > [Learning about CORS](Journey/013/Readme.md)
 - [X] ☁️ 14 > [Learning Cloud9 and SDKs](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [X] ☁️ 15 > [Learning about EC2, AMIs, Auto Scaling Groups, and ELBs](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
