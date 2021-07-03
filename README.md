@@ -35,7 +35,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 14 > [Learning Cloud9 and SDKs](Journey/014/Readme.md)
 - [X] ☁️ 15 > [Learning about EC2, AMIs, Auto Scaling Groups, and ELBs](Journey/015/Readme.md)
 - [X] ☁️ 16 > [Creating and using an RDS database on AWS](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [X] ☁️ 17 > [Learning more about AWS SQS and AWS SNS](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
