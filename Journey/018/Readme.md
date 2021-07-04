@@ -1,52 +1,17 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Learning how to use AWS Elastic Beanstalk
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today I chose to learn AWS Elastic Beanstalk so I can learn how to have AWS auto manage my web app.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+AWS Elastic Beanstalk is useful when creating a web application without having to worry about the underlying infrasturcture.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+I learned how to create an AWS Elastic Beanstalk backed application. To use EBS the user must upload their application code onto EBS, and then from there the user can configure some settings for AWS EBS for the resources that EBS will provision such as EC2 instances, ELB, Storage, Auto scaling, etc. Having the project managed by EBS allows for easier deployment as well as an easy way to monitor the application through EBS interface. EBS is free to use and the user only pays for the resources that EBS provsions.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-aws-cloud-activity-6817484699154345984-kyth)
