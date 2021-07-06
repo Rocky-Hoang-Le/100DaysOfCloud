@@ -37,7 +37,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 16 > [Creating and using an RDS database on AWS](Journey/016/Readme.md)
 - [X] ☁️ 17 > [Learning more about AWS SQS and AWS SNS](Journey/017/Readme.md)
 - [X] ☁️ 18 > [Learning how to use AWS Elastic Beanstalk](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [X] ☁️ 19 > [Reviewing my knowledge on EC2 placement groups](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
