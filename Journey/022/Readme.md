@@ -1,52 +1,19 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://i.ibb.co/kGR6Hmf/cover.png)
 
-# New post title here
+# Creating a Turn based game with AWS
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I chose this topic today as I enjoy making and coding games on my free time and being able to apply AWS to it will increase my AWS knowledge.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+There are many use cases for AWS resources such as notifying users of a game move, updating users about an update on a web browser, holding user information, etc. The specific project today focuses on applying the resources to make a game and notify users whenever the opponent makes a move.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Today I learned how to use Cloud9 and further improved my javascript skills as well. I learned how to use command line commands such as node, npm, and bash to run and install scripts as well as understand how the files interact with each other in Cloud9. I learned how to communicate with AWS resources from Cloud9 with AWS SDK and learned a little bit about the Express.js framework for web applications. I also learned a lot more on how to create AWS resources using AWS CLI and AWS SDK such as AWS SNS, AWS Cognito, AWS Lambda, AWS DynamoDB, and AWS API Gateway.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/rockyle98_100daysofcloud-aws-learning-activity-6818893808323899392-LKeF)

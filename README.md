@@ -43,7 +43,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 ## Crossing the bridge
 
 - [X] ☁️ 21 > [Learning about AWS Redshift](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
+- [X] ☁️ 22 > [Creating a Turn-Based game with AWS](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
