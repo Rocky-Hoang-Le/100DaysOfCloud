@@ -45,7 +45,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 21 > [Learning about AWS Redshift](Journey/021/Readme.md)
 - [X] ☁️ 22 > [Creating a Turn-Based game with AWS](Journey/022/Readme.md)
 - [X] ☁️ 23 > [Learning about AWS Architecture Diagrams](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
+- [X] ☁️ 24 > [Learning more about AWS Cognito](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
