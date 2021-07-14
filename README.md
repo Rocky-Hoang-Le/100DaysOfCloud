@@ -49,7 +49,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 25 > [Learning more about AWS Amplify](Journey/025/Readme.md)
 - [X] ☁️ 26 > [Learning about AWS EFS](Journey/026/Readme.md)
 - [X] ☁️ 27 > [Learning about AWS Fargate](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
+- [X] ☁️ 28 > [Learning about AWS CodeBuild](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
