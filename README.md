@@ -51,7 +51,7 @@ By the end of this challenge I am hoping to have some more certifications such a
 - [X] ☁️ 27 > [Learning about AWS Fargate](Journey/027/Readme.md)
 - [X] ☁️ 28 > [Learning about AWS CodeBuild](Journey/028/Readme.md)
 - [X] ☁️ 29 > [Creating a modern web application with AWS](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [X] ☁️ 30 > [Learning about API Gateway VPC Link](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
